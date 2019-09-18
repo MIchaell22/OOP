@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\program16a\program16a\obj\Debug\netcoreapp2.2\program16a.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\program16a\program16a\obj\Debug\netcoreapp2.2\program16a.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\program16a\program16a\obj\Debug\netcoreapp2.2\program16a.AssemblyInfo.cs
+C:\Users\пк\source\repos\program16a\program16a\bin\Debug\netcoreapp2.2\program16a.deps.json
+C:\Users\пк\source\repos\program16a\program16a\bin\Debug\netcoreapp2.2\program16a.runtimeconfig.json
+C:\Users\пк\source\repos\program16a\program16a\bin\Debug\netcoreapp2.2\program16a.runtimeconfig.dev.json
+C:\Users\пк\source\repos\program16a\program16a\bin\Debug\netcoreapp2.2\program16a.dll
+C:\Users\пк\source\repos\program16a\program16a\bin\Debug\netcoreapp2.2\program16a.pdb
+C:\Users\пк\source\repos\program16a\program16a\obj\Debug\netcoreapp2.2\program16a.dll
+C:\Users\пк\source\repos\program16a\program16a\obj\Debug\netcoreapp2.2\program16a.pdb

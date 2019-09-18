@@ -1,0 +1,3 @@
+C:\Users\пк\source\repos\problem14\problem14\obj\Debug\netcoreapp2.2\problem14.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\problem14\problem14\obj\Debug\netcoreapp2.2\problem14.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\problem14\problem14\obj\Debug\netcoreapp2.2\problem14.AssemblyInfo.cs

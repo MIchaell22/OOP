@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\problem17\problem17\obj\Debug\netcoreapp2.2\problem17.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\problem17\problem17\obj\Debug\netcoreapp2.2\problem17.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\problem17\problem17\obj\Debug\netcoreapp2.2\problem17.AssemblyInfo.cs
+C:\Users\пк\source\repos\problem17\problem17\bin\Debug\netcoreapp2.2\problem17.deps.json
+C:\Users\пк\source\repos\problem17\problem17\bin\Debug\netcoreapp2.2\problem17.runtimeconfig.json
+C:\Users\пк\source\repos\problem17\problem17\bin\Debug\netcoreapp2.2\problem17.runtimeconfig.dev.json
+C:\Users\пк\source\repos\problem17\problem17\bin\Debug\netcoreapp2.2\problem17.dll
+C:\Users\пк\source\repos\problem17\problem17\bin\Debug\netcoreapp2.2\problem17.pdb
+C:\Users\пк\source\repos\problem17\problem17\obj\Debug\netcoreapp2.2\problem17.dll
+C:\Users\пк\source\repos\problem17\problem17\obj\Debug\netcoreapp2.2\problem17.pdb

@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\Problem14a\Problem14a\bin\Debug\netcoreapp2.2\Problem14a.deps.json
+C:\Users\пк\source\repos\Problem14a\Problem14a\bin\Debug\netcoreapp2.2\Problem14a.runtimeconfig.json
+C:\Users\пк\source\repos\Problem14a\Problem14a\bin\Debug\netcoreapp2.2\Problem14a.runtimeconfig.dev.json
+C:\Users\пк\source\repos\Problem14a\Problem14a\bin\Debug\netcoreapp2.2\Problem14a.dll
+C:\Users\пк\source\repos\Problem14a\Problem14a\bin\Debug\netcoreapp2.2\Problem14a.pdb
+C:\Users\пк\source\repos\Problem14a\Problem14a\obj\Debug\netcoreapp2.2\Problem14a.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Problem14a\Problem14a\obj\Debug\netcoreapp2.2\Problem14a.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\Problem14a\Problem14a\obj\Debug\netcoreapp2.2\Problem14a.AssemblyInfo.cs
+C:\Users\пк\source\repos\Problem14a\Problem14a\obj\Debug\netcoreapp2.2\Problem14a.dll
+C:\Users\пк\source\repos\Problem14a\Problem14a\obj\Debug\netcoreapp2.2\Problem14a.pdb

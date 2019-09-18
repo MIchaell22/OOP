@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\program8\program8\bin\Debug\netcoreapp2.2\program8.deps.json
+C:\Users\пк\source\repos\program8\program8\bin\Debug\netcoreapp2.2\program8.runtimeconfig.json
+C:\Users\пк\source\repos\program8\program8\bin\Debug\netcoreapp2.2\program8.runtimeconfig.dev.json
+C:\Users\пк\source\repos\program8\program8\bin\Debug\netcoreapp2.2\program8.dll
+C:\Users\пк\source\repos\program8\program8\bin\Debug\netcoreapp2.2\program8.pdb
+C:\Users\пк\source\repos\program8\program8\obj\Debug\netcoreapp2.2\program8.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\program8\program8\obj\Debug\netcoreapp2.2\program8.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\program8\program8\obj\Debug\netcoreapp2.2\program8.AssemblyInfo.cs
+C:\Users\пк\source\repos\program8\program8\obj\Debug\netcoreapp2.2\program8.dll
+C:\Users\пк\source\repos\program8\program8\obj\Debug\netcoreapp2.2\program8.pdb

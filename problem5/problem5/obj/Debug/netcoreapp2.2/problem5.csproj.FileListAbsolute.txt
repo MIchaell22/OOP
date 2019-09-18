@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\problem5\problem5\obj\Debug\netcoreapp2.2\problem5.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\problem5\problem5\obj\Debug\netcoreapp2.2\problem5.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\problem5\problem5\obj\Debug\netcoreapp2.2\problem5.AssemblyInfo.cs
+C:\Users\пк\source\repos\problem5\problem5\bin\Debug\netcoreapp2.2\problem5.deps.json
+C:\Users\пк\source\repos\problem5\problem5\bin\Debug\netcoreapp2.2\problem5.runtimeconfig.json
+C:\Users\пк\source\repos\problem5\problem5\bin\Debug\netcoreapp2.2\problem5.runtimeconfig.dev.json
+C:\Users\пк\source\repos\problem5\problem5\bin\Debug\netcoreapp2.2\problem5.dll
+C:\Users\пк\source\repos\problem5\problem5\bin\Debug\netcoreapp2.2\problem5.pdb
+C:\Users\пк\source\repos\problem5\problem5\obj\Debug\netcoreapp2.2\problem5.dll
+C:\Users\пк\source\repos\problem5\problem5\obj\Debug\netcoreapp2.2\problem5.pdb
