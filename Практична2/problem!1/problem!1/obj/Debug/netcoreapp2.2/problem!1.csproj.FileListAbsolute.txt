@@ -1,0 +1,11 @@
+C:\Users\пк\source\repos\problem!1\problem!1\obj\Debug\netcoreapp2.2\problem!1.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\problem!1\problem!1\obj\Debug\netcoreapp2.2\problem!1.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\problem!1\problem!1\obj\Debug\netcoreapp2.2\problem!1.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\problem!1\problem!1\obj\Debug\netcoreapp2.2\problem!1.AssemblyInfo.cs
+C:\Users\пк\source\repos\problem!1\problem!1\bin\Debug\netcoreapp2.2\problem!1.deps.json
+C:\Users\пк\source\repos\problem!1\problem!1\bin\Debug\netcoreapp2.2\problem!1.runtimeconfig.json
+C:\Users\пк\source\repos\problem!1\problem!1\bin\Debug\netcoreapp2.2\problem!1.runtimeconfig.dev.json
+C:\Users\пк\source\repos\problem!1\problem!1\bin\Debug\netcoreapp2.2\problem!1.dll
+C:\Users\пк\source\repos\problem!1\problem!1\bin\Debug\netcoreapp2.2\problem!1.pdb
+C:\Users\пк\source\repos\problem!1\problem!1\obj\Debug\netcoreapp2.2\problem!1.dll
+C:\Users\пк\source\repos\problem!1\problem!1\obj\Debug\netcoreapp2.2\problem!1.pdb
