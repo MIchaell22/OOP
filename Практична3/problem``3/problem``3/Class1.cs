@@ -17,7 +17,7 @@ namespace problem__1
             Person tom1 = new Person();
 
             tom1.name = "Gosho";
-            tom1.age = 50;
+            tom1.age = 21;
 
             // Console.WriteLine($"Имя: {tom1.name}  Возраст: {tom1.age}");
             Person tom2 = new Person();

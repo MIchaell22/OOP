@@ -7,7 +7,7 @@ namespace problem_1
         static void Main(string[] args)
         {
             int i=0;
-
+            int s = 0;
             string a = " php cssharp sql html css js hi  softuni nakov java learn";
             string[] words = a.Split(' ');
             
@@ -15,9 +15,9 @@ namespace problem_1
             {
                 if (word == "hi" || word == "java" || word =="php")
                 {
-                    i++;
+                    i++=s;
                     
-                    Console.WriteLine(i);
+                    Console.Write(s);
                 }
                    
             }

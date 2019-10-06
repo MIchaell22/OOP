@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\пк\\source\\repos\\problem``3\\problem``3\\problem``3.csproj": {}
+    "C:\\Users\\пк\\Desktop\\Новая папка (7)\\oop\\OOP\\Практична3\\problem``3\\problem``3\\problem``3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\пк\\source\\repos\\problem``3\\problem``3\\problem``3.csproj": {
+    "C:\\Users\\пк\\Desktop\\Новая папка (7)\\oop\\OOP\\Практична3\\problem``3\\problem``3\\problem``3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\пк\\source\\repos\\problem``3\\problem``3\\problem``3.csproj",
+        "projectUniqueName": "C:\\Users\\пк\\Desktop\\Новая папка (7)\\oop\\OOP\\Практична3\\problem``3\\problem``3\\problem``3.csproj",
         "projectName": "problem``3",
-        "projectPath": "C:\\Users\\пк\\source\\repos\\problem``3\\problem``3\\problem``3.csproj",
+        "projectPath": "C:\\Users\\пк\\Desktop\\Новая папка (7)\\oop\\OOP\\Практична3\\problem``3\\problem``3\\problem``3.csproj",
         "packagesPath": "C:\\Users\\пк\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пк\\source\\repos\\problem``3\\problem``3\\obj\\",
+        "outputPath": "C:\\Users\\пк\\Desktop\\Новая папка (7)\\oop\\OOP\\Практична3\\problem``3\\problem``3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
