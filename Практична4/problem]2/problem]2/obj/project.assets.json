@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\пк\\source\\repos\\problem]2\\problem]2\\problem]2.csproj",
+      "projectUniqueName": "C:\\Users\\пк\\Desktop\\oop\\Новая папка (7)\\oop\\OOP\\Практична4\\problem]2\\problem]2\\problem]2.csproj",
       "projectName": "problem]2",
-      "projectPath": "C:\\Users\\пк\\source\\repos\\problem]2\\problem]2\\problem]2.csproj",
+      "projectPath": "C:\\Users\\пк\\Desktop\\oop\\Новая папка (7)\\oop\\OOP\\Практична4\\problem]2\\problem]2\\problem]2.csproj",
       "packagesPath": "C:\\Users\\пк\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\пк\\source\\repos\\problem]2\\problem]2\\obj\\",
+      "outputPath": "C:\\Users\\пк\\Desktop\\oop\\Новая папка (7)\\oop\\OOP\\Практична4\\problem]2\\problem]2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
